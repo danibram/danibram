@@ -3,7 +3,7 @@
 
 I’m currently working at [BPM & SOA Solutions](https://www.bpmsoasolutions.com/) doing some Frontend (ReactJs...) and FullStack staff (Docker,Kubernetes,Jenkins,APIs...), we released some open source tools here, [@bpmsoasolutions](https://github.com/bpmsoasolutions)
 
-Sideprojects:
+⚡ Sideprojects:
 
 -   I’m currently working on [La liga de SUP](https://www.laligadesup.es/)
 
@@ -19,7 +19,7 @@ Sideprojects:
 
 -   Open source here [Github](https://github.com/danibram?tab=repositories)
 
-More of me:
+😻 More of me:
 
 -   👨‍💻 Website [https://dbr.io](https://dbr.io)
 
@@ -27,7 +27,9 @@ More of me:
 
 -   📫 How to reach me **hi@dbr.io**
 
--   ⚡ Taiwan I miss you!
+-   🇹🇼 Taiwan I miss you!
+
+-   🐈🐈 Have 2 lovely cats called Luke and Leia (You know why!)
 
 -   🔭 Top Tech I love:
 
