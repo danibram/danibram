@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Biedma</h1>
 <h3 align="center">FullStack Developer</h3>
 
-I’m currently working at [BPM & SOA Solutions](https://www.bpmsoasolutions.com/) doing some Frontend (ReactJs...) and FullStack staff (Docker,Kubernetes,Jenkins,APIs...), we released some open source tools here, [@bpmsoasolutions](https://github.com/bpmsoasolutions)
+I’m currently working at [BPM & SOA Solutions](https://www.bpmsoasolutions.com/) doing some Frontend (ReactJs...) and FullStack staff (Docker,Kubernetes,Jenkins,APIs...). We released some open source tools here, [@bpmsoasolutions](https://github.com/bpmsoasolutions)
+
 
 ⚡ Sideprojects:
 
@@ -19,19 +20,19 @@ I’m currently working at [BPM & SOA Solutions](https://www.bpmsoasolutions.com
 
 -   Open source here [Github](https://github.com/danibram?tab=repositories)
 
-😻 More of me:
+😻 More about me:
 
--   👨‍💻 Website [https://dbr.io](https://dbr.io)
+-   👨‍💻  Website [https://dbr.io](https://dbr.io)
 
--   ❤️ Loving Photography and travel [@danibram.photo](https://instagram.com/danibram.photo)
+-   ❤️  Loving Photography and travel [@danibram.photo](https://instagram.com/danibram.photo)
 
--   📫 How to reach me **hi@dbr.io**
+-   📫  How to reach me **hi@dbr.io**
 
--   🇹🇼 Taiwan I miss you!
+-   🇹🇼  Taiwan I miss you!
 
--   🐈🐈 Have 2 lovely cats called Luke and Leia (You know why!)
+-   🐈🐈  Have 2 lovely cats called Luke and Leia (You know why!)
 
--   🔭 Top Tech I love:
+-   🔭  Top Tech I love:
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
