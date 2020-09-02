@@ -8,7 +8,7 @@ I’m currently working at [BPM & SOA Solutions](https://www.bpmsoasolutions.com
 
 -   I’m currently working on [La liga de SUP](https://www.laligadesup.es/)
 
--   Already released [BHPA-PDS](https://bhpa-pds.com/)
+-   Already released [BHPA-PDS](https://bhpa-pds.com/) (I did more backend job here)
 
 -   Experiments:
 
