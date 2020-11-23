@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Biedma</h1>
 <h3 align="center">FullStack Developer</h3>
 
-I’m currently working at [BPM & SOA Solutions](https://www.bpmsoasolutions.com/) doing some Frontend (ReactJs...) and FullStack staff (Docker,Kubernetes,Jenkins,APIs...). We released some open source tools here, [@bpmsoasolutions](https://github.com/bpmsoasolutions)
+I’m currently working at [Seedtag](https://www.seedtag.com/es/) doing some Frontend staff and learning hard!🔥
 
 
 ⚡ Sideprojects:
@@ -19,6 +19,14 @@ I’m currently working at [BPM & SOA Solutions](https://www.bpmsoasolutions.com
     -   [Slack BOT](https://sb.dbr.io/)
 
 -   Open source here [Github](https://github.com/danibram?tab=repositories)
+
+🕰️ Other positions:
+
+- [BPM & SOA Solutions](https://www.bpmsoasolutions.com/) doing some Frontend (ReactJs...) and FullStack staff (Docker,Kubernetes,Jenkins,APIs...)
+
+- [BizAway](https://www.bizaway.com/) FullStack developer (NodeJS, APIs, Thirdparty integrations, Angular)
+
+- [BidAway](https://www.bidaway.com/) FullStack developer (NodeJS, APIs, Thirdparty integrations, Angular, Symphony2, IonicJS)
 
 😻 More about me:
 
