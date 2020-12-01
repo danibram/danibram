@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Biedma</h1>
 <h3 align="center">FullStack Developer</h3>
 
-I’m currently working at [Seedtag](https://www.seedtag.com/es/) doing some Frontend staff and learning hard!🔥
-
+I’m currently working at [Seedtag](https://www.seedtag.com/es/) doing some Frontend staff and learning reason hard!🔥
 
 ⚡ Sideprojects:
 
@@ -19,6 +18,8 @@ I’m currently working at [Seedtag](https://www.seedtag.com/es/) doing some Fro
     -   [Slack BOT](https://sb.dbr.io/)
 
 -   Open source here [Github](https://github.com/danibram?tab=repositories)
+
+-  [Status page](https://ping.dbr.io/) of all services deployed
 
 🕰️ Other positions:
 
