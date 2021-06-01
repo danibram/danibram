@@ -19,7 +19,7 @@ I’m currently working at [Seedtag](https://www.seedtag.com/es/) doing some Fro
 
 -   Open source here [Github](https://github.com/danibram?tab=repositories)
 
--  [Status page](https://ping.dbr.io/) of all services deployed
+-  [Status page](https://stats.uptimerobot.com/oOExZfX9E1) of all services deployed
 
 🕰️ Other positions:
 
