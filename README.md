@@ -41,8 +41,6 @@ I’m currently working at [Seedtag](https://www.seedtag.com/es/) doing some Fro
 
 -   🐈🐈  Have 2 lovely cats called Luke and Leia (You know why!)
 
--   🔭  Top Tech I love:
-
 <p align="center">
 <a href="https://dbr.io" target="blank">
 <img align="center" src="https://www.dbr.io/public/img/dbr.png" alt="danielbiedma" height="30" width="30" /></a>
