@@ -43,16 +43,6 @@ I’m currently working at [Seedtag](https://www.seedtag.com/es/) doing some Fro
 
 -   🔭  Top Tech I love:
 
-<p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-</p>
 <p align="center">
 <a href="https://dbr.io" target="blank">
 <img align="center" src="https://www.dbr.io/public/img/dbr.png" alt="danielbiedma" height="30" width="30" /></a>
