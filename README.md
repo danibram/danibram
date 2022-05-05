@@ -7,7 +7,7 @@ I’m currently working at [Seedtag](https://www.seedtag.com/es/) doing some AdS
 
 -   I’m currently working on [La liga de SUP](https://www.laligadesup.es/)
 
--   Already released [BHPA-PDS](https://bhpa-pds.com/) (I did more backend job here)
+-   Already released [BHPA-PDS](https://bhpa-pds.com/) (I did backend&devops job here)
 
 -   Experiments:
 
