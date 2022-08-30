@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Biedma</h1>
 <h3 align="center">FullStack Developer</h3>
 
-I’m currently working at [Seedtag](https://www.seedtag.com/es/) doing some AdServing staff and learning reasonml/rescript hard!🔥
+I’m currently working at [Seedtag](https://www.seedtag.com/) doing some AdServing staff and learning reasonml/rescript hard!🔥
 
 ⚡ Sideprojects:
 
@@ -10,6 +10,7 @@ I’m currently working at [Seedtag](https://www.seedtag.com/es/) doing some AdS
 -   Already released [BHPA-PDS](https://bhpa-pds.com/) (I did backend&devops job here)
 
 -   Experiments:
+    -   [PWA Countdown](https://countdown.dbr.io)
 
     -   [PWA FODMAPs](https://fodmaps.dbr.io)
 
