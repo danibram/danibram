@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Daniel Biedma</h1>
 <h3 align="center">FullStack Developer</h3>
 
-I’m currently working at [Seedtag](https://www.seedtag.com/) doing some AdServing staff and learning reasonml/rescript hard!🔥
+I’m currently working at [Seedtag](https://www.seedtag.com/) doing some AdServing staff with rescript, typescript and more!🔥
 
 ⚡ Sideprojects:
 
--   I’m currently working on [La liga de SUP](https://www.laligadesup.es/)
-
--   Already released [BHPA-PDS](https://bhpa-pds.com/) (I did backend&devops job here)
+-   Already released
+    -    [La liga de SUP](https://www.laligadesup.es/) (Died but was super fun, I did the entire stack)
+    -    [BHPA-PDS](https://bhpa-pds.com/) (I did backend&devops job here)
 
 -   Experiments:
+    -    [Text-to-SVG](https://text-to-svg.vercel.app/)   
+
     -   [PWA Countdown](https://countdown.dbr.io)
 
     -   [PWA FODMAPs](https://fodmaps.dbr.io)
