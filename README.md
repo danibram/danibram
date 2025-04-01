@@ -6,8 +6,8 @@ I’m currently working at [Seedtag](https://www.seedtag.com/) doing some AdServ
 ⚡ Sideprojects:
 
 -   Already released
-    -    [La liga de SUP](https://www.laligadesup.es/) (Died but was super fun, I did the entire stack)
-    -    [BHPA-PDS](https://bhpa-pds.com/) (I did backend&devops job here)
+    -    [La liga de SUP](https://www.laligadesup.es/) (Died but was super fun, I did the entire stack, NextJS, API, Strapi, Strava...)
+    -    [BHPA-PDS](https://bhpa-pds.com/) (I did backend&devops job here )
 
 -   Experiments:
     -    [Text-to-SVG](https://text-to-svg.vercel.app/)   
