@@ -8,19 +8,20 @@ I’m currently working at [Seedtag](https://www.seedtag.com/) doing some AdServ
 -   Already released
     -    [La liga de SUP](https://www.laligadesup.es/) (Died but was super fun, I did the entire stack, NextJS, API, Strapi, Strava...)
     -    [BHPA-PDS](https://bhpa-pds.com/) (I did backend&devops job here )
+    
+<ul>
+    <li>Experiments:
+    <ul>
+      <li><a href="https://video-editor.dbr.io" target="_blank">Video Editor (ffmpeg wasm)</a></li>
+      <li><a href="https://text-to-svg.vercel.app"  target="_blank">Text-to-SVG</a></li>
+      <li><a href="https://countdown.dbr.io" target="_blank">PWA Countdown</a></li>
+      <li><a href="https://fodmaps.dbr.io" target="_blank">PWA FODMAPs</a></li>
+      <li><a href="https://jiayou.dbr.io" target="_blank">PWA JiaYou</a></li>
+      <li><a href="https://sb.dbr.io" target="_blank">Slack BOT</a></li>
+    </ul>
+    </li>
+</ul>
 
--   Experiments:
-    -   <a href="https://video-editor.dbr.io/" target="_blank">Video Editor (ffmpeg wasm)</a>
-
-    -   [Text-to-SVG](https://text-to-svg.vercel.app/)   
-
-    -   [PWA Countdown](https://countdown.dbr.io)
-
-    -   [PWA FODMAPs](https://fodmaps.dbr.io)
-
-    -   [PWA JiaYou](https://jiayou.dbr.io)
-
-    -   [Slack BOT](https://sb.dbr.io/)
 
 -   Open source here [Github](https://github.com/danibram?tab=repositories)
 
