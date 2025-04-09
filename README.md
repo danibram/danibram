@@ -37,7 +37,7 @@ I’m currently working at [Seedtag](https://www.seedtag.com/) doing some AdServ
 
 😻 More about me:
 
--   👨‍💻  Website [https://dbr.io](https://dbr.io)
+-   👨‍💻  Website [https://dbr.io](https://www.dbr.io)
 
 -   ❤️  Loving Photography and travel [@danibram.photo](https://instagram.com/danibram.photo)
 
@@ -48,7 +48,7 @@ I’m currently working at [Seedtag](https://www.seedtag.com/) doing some AdServ
 -   🐈🐈  Have 2 lovely cats called Luke and Leia (You know why!)
 
 <p align="center">
-<a href="https://dbr.io" target="blank">
+<a href="https://www.dbr.io" target="blank">
 <img align="center" src="https://www.dbr.io/public/img/dbr.png" alt="danielbiedma" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/danielbiedma" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielbiedma" height="30" width="30" /></a>
