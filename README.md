@@ -10,7 +10,9 @@ I’m currently working at [Seedtag](https://www.seedtag.com/) doing some AdServ
     -    [BHPA-PDS](https://bhpa-pds.com/) (I did backend&devops job here )
 
 -   Experiments:
-    -    [Text-to-SVG](https://text-to-svg.vercel.app/)   
+    -   <a href="https://video-editor.dbr.io/" target="_blank">Video Editor (ffmpeg wasm)</a>
+
+    -   [Text-to-SVG](https://text-to-svg.vercel.app/)   
 
     -   [PWA Countdown](https://countdown.dbr.io)
 
