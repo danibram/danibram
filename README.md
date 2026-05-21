@@ -1,61 +1,43 @@
-<h1 align="center">Hi 👋, I'm Daniel Biedma</h1>
-<h3 align="center">FullStack Developer</h3>
+# daniel biedma
 
-I’m currently working at [Seedtag](https://www.seedtag.com/) doing some AdServing staff with rescript, typescript and more!🔥
+ingeniero de software · pamplona, es · [dbr.io](https://dbr.io)
 
-⚡ Sideprojects:
+working at [Seedtag](https://www.seedtag.com) on the creative editor for contextual advertising — rescript, ts, react, node, k8s, terraform.
 
--   Already released
-    -    [La liga de SUP](https://www.laligadesup.es/) (Died but was super fun, I did the entire stack, NextJS, API, Strapi, Strava...)
-    -    [BHPA-PDS](https://bhpa-pds.com/) (I did backend&devops job here )
-    
-<ul>
-    <li>Experiments:
-    <ul>
-      <li><a href="https://video-editor.dbr.io" target="_blank">Video Editor (ffmpeg wasm)</a></li>
-      <li><a href="https://text-to-svg.vercel.app"  target="_blank">Text-to-SVG</a></li>
-      <li><a href="https://countdown.dbr.io" target="_blank">PWA Countdown</a></li>
-      <li><a href="https://fodmaps.dbr.io" target="_blank">PWA FODMAPs</a></li>
-      <li><a href="https://jiayou.dbr.io" target="_blank">PWA JiaYou</a></li>
-      <li><a href="https://sb.dbr.io" target="_blank">Slack BOT</a></li>
-    </ul>
-    </li>
-</ul>
+## sideprojects
 
+- **2025** · Comunidad — software for residential communities: water and heating meters, invoicing, dashboards
+- **2023** · [Konae](https://www.konae.es) — patient records, journals & case documents in one place
+- **2020** · laligadesup — sports challenges during the pandemic; full stack, web, backend, devops
+- **2018** · [BHPA UK](https://bhpa-pds.com) — British Hang Gliding & Paragliding Association: training & flight logs
 
--   Open source here [Github](https://github.com/danibram?tab=repositories)
+## experiments
 
--  [Status page](https://stats.uptimerobot.com/oOExZfX9E1) of all services deployed
+- [rekk](https://github.com/danibram/rekk) — macOS audio recorder with mic + system capture and local Whisper transcription
+- [immich-proxy-go](https://github.com/danibram/immich-proxy-go) — lightweight proxy for Immich, written in Go
+- [gcloud-transcoder-app](https://github.com/danibram/gcloud-transcoder-app) — Tauri desktop UI for Google Cloud Transcoder jobs
+- [video-editor](https://video-editor.dbr.io) — in-browser video editor running on ffmpeg-wasm
+- [ghibli-theme](https://github.com/danibram/ghibli-theme) — dreamy, nature-inspired color theme
+- [pwa-jiayou](https://jiayou.dbr.io) — PWA to learn Chinese in Spanish
+- [mocker-data-generator](https://danibram.github.io/mocker-data-generator/) — fake-data generator schema lib (427★)
+- [text-to-svg](https://text-to-svg.vercel.app) — turn text into SVG glyphs
+- [scrapy-slack-bot](https://sb.dbr.io) — bot to control shared files in Slack
 
-🕰️ Other positions:
+open source → [github.com/danibram](https://github.com/danibram?tab=repositories)
 
-- [BPM & SOA Solutions](https://www.bpmsoasolutions.com/) doing some Frontend (ReactJs...) and FullStack staff (Docker,Kubernetes,Jenkins,APIs...)
+## previously
 
-- [BizAway](https://www.bizaway.com/) FullStack developer (NodeJS, APIs, Thirdparty integrations, Angular)
+- **2015 — 2020** · FullStack @ [BPM&SOA Solutions](https://www.bpmsoasolutions.com)
+- **2013 — 2016** · FullStack @ BidAway
+- **2011 — 2016** · Freelance — survival webs
+- **2013** · Eng. Telecom @ UPNA
 
-- [BidAway](https://www.bidaway.com/) FullStack developer (NodeJS, APIs, Thirdparty integrations, Angular, Symphony2, IonicJS)
+## off the clock
 
-😻 More about me:
+photography & travel → [@danibram.photo](https://instagram.com/danibram.photo)  
+taiwan ♥  
+two cats — luke & leia
 
--   👨‍💻  Website [https://dbr.io](https://www.dbr.io)
+## reach me
 
--   ❤️  Loving Photography and travel [@danibram.photo](https://instagram.com/danibram.photo)
-
--   📫  How to reach me **hi@dbr.io**
-
--   🇹🇼  Taiwan I miss you!
-
--   🐈🐈  Have 2 lovely cats called Luke and Leia (You know why!)
-
-<p align="center">
-<a href="https://www.dbr.io" target="blank">
-<img align="center" src="https://www.dbr.io/public/img/dbr.png" alt="danielbiedma" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/danielbiedma" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielbiedma" height="30" width="30" /></a>
-<a href="https://fb.com/danibram" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="danibram" height="30" width="30" /></a>
-<a href="https://instagram.com/danibram.photo" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="danibram.photo" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/danibram" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="danibram" height="30" width="30" /></a>
-</p>
+[dbr.io](https://dbr.io) · hi@dbr.io · [in/daniel-biedma](https://linkedin.com/in/danielbiedma)
