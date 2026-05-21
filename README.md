@@ -22,6 +22,7 @@ working at [Seedtag](https://www.seedtag.com) on the creative editor for context
 - [mocker-data-generator](https://danibram.github.io/mocker-data-generator/) — fake-data generator schema lib (427★)
 - [text-to-svg](https://text-to-svg.vercel.app) — turn text into SVG glyphs
 - [scrapy-slack-bot](https://sb.dbr.io) — bot to control shared files in Slack
+- and [more](https://github.com/danibram?tab=repositories)
 
 open source → [github.com/danibram](https://github.com/danibram?tab=repositories)
 
