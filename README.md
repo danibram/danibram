@@ -6,7 +6,7 @@ working at [Seedtag](https://www.seedtag.com) on the creative editor for context
 
 ## sideprojects
 
-- **2025** · Vecindad — software for residential communities: meter readings, boilers, invoicing, receipts and a resident portal
+- **2025** · [Vecindad](https://vecin.dad) — software for residential communities: meter readings, boilers, invoicing, receipts and a resident portal
 - **2023** · [Konae](https://www.konae.es) — patient records, journals & case documents in one place
 - **2020** · laligadesup — sports challenges during the pandemic; full stack, web, backend, devops
 - **2018** · [BHPA UK](https://bhpa-pds.com) — British Hang Gliding & Paragliding Association: training & flight logs
